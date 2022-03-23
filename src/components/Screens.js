@@ -91,7 +91,7 @@ const Screens = () => {
   return (
     <>
       <Header>
-        <Title>Quick Notes</Title>
+        <Title>Scope Notes</Title>
         <SignOutButton
           onClick={() => {
             Auth.signOut().then(() => window.location.reload());
@@ -102,8 +102,8 @@ const Screens = () => {
       </Header>
       <StyledTabs index={tabIndex} onChange={index => setTabIndex(index)}>
         <StyledTabList>
-          <StyledTab>Notes</StyledTab>
-          <StyledTab>Record</StyledTab>
+          <StyledTab>Vehicle Inspection Notes</StyledTab>
+          <StyledTab>Record New</StyledTab>
         </StyledTabList>
         <StyledTabPanels>
           <StyledTabPanel>
