@@ -1,0 +1,20 @@
+{
+  "devv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-quick-notes-devv-04322-authRole",
+      "UnauthRoleArn": "arn:aws:iam::577001964609:role/amplify-quick-notes-devv-04322-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::577001964609:role/amplify-quick-notes-devv-04322-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-quick-notes-devv-04322-deployment",
+      "UnauthRoleName": "amplify-quick-notes-devv-04322-unauthRole",
+      "StackName": "amplify-quick-notes-devv-04322",
+      "StackId": "arn:aws:cloudformation:us-west-2:577001964609:stack/amplify-quick-notes-devv-04322/3e115710-aa42-11ec-a3f2-026cd27915bf",
+      "AmplifyAppId": "d1glvem2pqovyw"
+    },
+    "categories": {
+      "auth": {
+        "quicknotes9506fafe": {}
+      }
+    }
+  }
+}
